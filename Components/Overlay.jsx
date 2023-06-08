@@ -5,7 +5,7 @@ function Overlay() {
     <div>
       <div className='overlay'></div>
       <video className='fullscreen-video'  autoPlay muted loop  >
-        <source src="./star1.mp4" type="video/mp4" />
+        <source src="./star2.mp4" type="video/mp4" />
       </video>
         <div className="flex text-white absolute top-0 flex-col justify-center items-center h-[100%] w-[100%] ">
       <h1>helooo</h1>
